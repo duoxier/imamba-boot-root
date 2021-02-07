@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-autoconfigure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-autoconfigure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter-mybatis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter-poi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-boot-starter-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-starters/imamba-cloud-starter-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot-test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/imamba-boot/src/main/java" charset="UTF-8" />
+  </component>
+</project>

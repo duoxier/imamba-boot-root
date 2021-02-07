@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>imamba-boot-root</artifactId>
+        <groupId>com.imamba.boot</groupId>
+        <version>1.4.3</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>imamba-boot-starters</artifactId>
+    <packaging>pom</packaging>
+
+   <modules>
+       <module>imamba-boot-starter</module>
+       <module>imamba-boot-starter-jdbc</module>
+       <module>imamba-boot-starter-mongodb</module>
+       <module>imamba-boot-starter-mybatis</module>
+       <module>imamba-boot-starter-poi</module>
+       <module>imamba-boot-starter-service</module>
+       <module>imamba-boot-starter-test</module>
+       <module>imamba-cloud-starter-service</module>
+   </modules>
+
+
+</project>

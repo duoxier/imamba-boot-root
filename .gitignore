@@ -1,0 +1,4 @@
+# Project exclude paths
+/imamba-boot/target/
+/imamba-boot-autoconfigure/target/
+/imamba-boot-test/target/
